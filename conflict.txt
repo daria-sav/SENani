@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+Tere! See on 8. november, SE prektikum
+hujovi den eto nachalo horoshei nedeli
+=======
 Tere! See on 8. november, SE prektikum
 hujovi den eto nachalo hujovogo kontsa
+>>>>>>> a80ac73b0c95754ef38d9a4cf92d5284f9277c7b
